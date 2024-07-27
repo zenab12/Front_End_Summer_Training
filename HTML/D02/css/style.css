@@ -1,0 +1,27 @@
+li 
+{
+color:green
+}
+
+.chapter
+{
+    background-color: rebeccapurple;
+    color:aliceblue;
+    padding: 20px;
+}
+
+
+#chapterOne
+{
+    border: 10px solid #000;
+}
+
+ #chapterTwo
+ {
+   border: 10px solid pink;
+ }
+ 
+ td 
+ {
+ text-align: center;
+ }
