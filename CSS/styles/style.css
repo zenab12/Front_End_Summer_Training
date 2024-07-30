@@ -1,0 +1,51 @@
+
+@import url('./button.css');
+@import url('./text.css');
+
+.text-center 
+{
+text-align: center;
+}
+
+.text-left{
+text-align: left;
+}
+
+.text-right 
+{
+text-align: right;
+}
+
+
+.button 
+{
+    background-color: red;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.button-primary 
+{
+    background-color: rgb(117, 180, 251);
+}
+
+.button-warning 
+{
+    background-color: rgb(252, 254, 100);
+}
+
+.card__body 
+{
+background-color: red;
+}
+
+.card__footer 
+{
+background-color: pink;
+}
+
+.card__footer--active 
+{
+    color:aquamarine
+}
